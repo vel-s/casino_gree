@@ -1,0 +1,22 @@
+html,
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: #eee;
+}
+svg {
+    width: 100px;
+    height: 100px;
+}
+
+a {
+    color: blue;
+    fill: cornflowerblue;
+}
