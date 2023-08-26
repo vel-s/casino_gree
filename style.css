@@ -20,3 +20,8 @@ a {
     color: blue;
     fill: cornflowerblue;
 }
+
+include {
+    height: auto;
+    width: auto;
+}
